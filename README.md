@@ -10,13 +10,13 @@ E-commerce especializado na venda de itens colecionáveis inspirados no universo
 Funcionalidades principais:
 * Catálogo de produtos colecionáveis com imagens, descrições e preços, inspirado nos campeões e itens do LoL.
 * Sistema de busca e ordenação por:
-- Classe (ex: mago, atirador, tanque)
-- Nome
-- Preço (crescente ou decrescente)
+ Classe (ex: mago, atirador, tanque)
+ Nome
+ Preço (crescente ou decrescente)
 * Controle de sessão e autenticação de usuários, com funcionalidades distintas para usuários comuns e administradores.
 * Área administrativa (painel CRUD):
-- Cadastro, edição, exclusão e listagem de produtos.
-- Gerenciamento de usuários e pedidos.
+ Cadastro, edição, exclusão e listagem de produtos.
+ Gerenciamento de usuários e pedidos.
 * Integração com a API ViaCEP para preenchimento automático de endereços no checkout, otimizando o processo de finalização da compra.
 
 ## Preview
